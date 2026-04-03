@@ -74,3 +74,4 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [CacheStorage API](https://github.com/TalAter/awesome-progressive-web-apps#cachestorage-api)
 - [IndexedDB](https://github.com/TalAter/awesome-progressive-web-apps#indexeddb)
 - [Push Notifications](https://github.com/TalAter/awesome-progressive-web-apps#push-notifications)
+- [TaleForge](https://www.tale-forge.com/) - Creative writing PWA using service workers for offline editing, cache-first strategy, and background sync.
